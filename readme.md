@@ -15,7 +15,7 @@ MongoDB (using Mongoose)
 Passport.js (for authentication)
 Handlebars (as the templating engine)
 
-#Features
+# Features
 Authentication: User authentication using Google OAuth.
 Stories: Create, edit, delete, and view stories.
 Dashboard: User-specific dashboard displaying their stories.
